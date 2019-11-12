@@ -1,0 +1,11 @@
+C:\Users\CRM\Documents\CSharp\Compte-banq\Compte-banq\obj\Debug\netcoreapp3.0\Compte-banq.csprojAssemblyReference.cache
+C:\Users\CRM\Documents\CSharp\Compte-banq\Compte-banq\obj\Debug\netcoreapp3.0\Compte-banq.AssemblyInfoInputs.cache
+C:\Users\CRM\Documents\CSharp\Compte-banq\Compte-banq\obj\Debug\netcoreapp3.0\Compte-banq.AssemblyInfo.cs
+C:\Users\CRM\Documents\CSharp\Compte-banq\Compte-banq\bin\Debug\netcoreapp3.0\Compte-banq.exe
+C:\Users\CRM\Documents\CSharp\Compte-banq\Compte-banq\bin\Debug\netcoreapp3.0\Compte-banq.deps.json
+C:\Users\CRM\Documents\CSharp\Compte-banq\Compte-banq\bin\Debug\netcoreapp3.0\Compte-banq.runtimeconfig.json
+C:\Users\CRM\Documents\CSharp\Compte-banq\Compte-banq\bin\Debug\netcoreapp3.0\Compte-banq.runtimeconfig.dev.json
+C:\Users\CRM\Documents\CSharp\Compte-banq\Compte-banq\bin\Debug\netcoreapp3.0\Compte-banq.dll
+C:\Users\CRM\Documents\CSharp\Compte-banq\Compte-banq\bin\Debug\netcoreapp3.0\Compte-banq.pdb
+C:\Users\CRM\Documents\CSharp\Compte-banq\Compte-banq\obj\Debug\netcoreapp3.0\Compte-banq.dll
+C:\Users\CRM\Documents\CSharp\Compte-banq\Compte-banq\obj\Debug\netcoreapp3.0\Compte-banq.pdb
